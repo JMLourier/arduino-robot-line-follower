@@ -1,3 +1,9 @@
+# vscode
+.vscode
+
+#other
+*.pdf
+
 # Prerequisites
 *.d
 
